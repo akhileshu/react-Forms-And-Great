@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-Forms-And-Great/static/css/main.de296531.css",
+    "main.js": "/react-Forms-And-Great/static/js/main.0b89533d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-Forms-And-Great/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-Forms-And-Great/index.html",
+    "main.de296531.css.map": "/react-Forms-And-Great/static/css/main.de296531.css.map",
+    "main.0b89533d.js.map": "/react-Forms-And-Great/static/js/main.0b89533d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-Forms-And-Great/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de296531.css",
+    "static/js/main.0b89533d.js"
+  ]
+}
